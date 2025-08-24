@@ -1,4 +1,4 @@
-# internintelligence
+# InternIntelligence_Model Hyperparameter Tuning
 # Task:
 optimize the hyperparameters of a machine learning model to improve ist performance
 # details:
